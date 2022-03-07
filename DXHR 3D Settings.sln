@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXHR 3D Settings", "DXHR 3D Settings\DXHR 3D Settings.csproj", "{25C923D5-F4BC-43D6-A4CC-43E79F74182F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25C923D5-F4BC-43D6-A4CC-43E79F74182F}.Debug|x86.ActiveCfg = Debug|x86
+		{25C923D5-F4BC-43D6-A4CC-43E79F74182F}.Debug|x86.Build.0 = Debug|x86
+		{25C923D5-F4BC-43D6-A4CC-43E79F74182F}.Release|x86.ActiveCfg = Release|x86
+		{25C923D5-F4BC-43D6-A4CC-43E79F74182F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3157D0E9-4225-4DEB-8BA6-3088D4120A31}
+	EndGlobalSection
+EndGlobal
